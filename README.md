@@ -1,5 +1,5 @@
 ### Install ModInstaller
-https://www.gtainside.com/en/sanandreas/tools/5604-san-andreas-mod-installer/
+https://www.gtagarage.com/mods/show.php?id=25377
 
 ### Install Mods
 1. Download this repo
